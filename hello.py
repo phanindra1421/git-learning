@@ -1,5 +1,6 @@
-print("Hello World this is going to change")
+print("Hello phanindra this is your world going to change")
 a=10
 b=20
-c=a+b
+d=30
+c=a+b+d
 print(c)
